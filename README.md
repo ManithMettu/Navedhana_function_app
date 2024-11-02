@@ -1,4 +1,4 @@
-# ganesh_demo
+# Basic Flutter app
 
 A new Flutter project.
 
